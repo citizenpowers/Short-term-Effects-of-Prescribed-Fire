@@ -1,8 +1,10 @@
 #this script created the vegetation figures in the manuscript
 
 
-
-
+library(tidyverse)
+library(cowplot)
+library(ggh4x)
+library(magick)
 
 
 
